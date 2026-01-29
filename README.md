@@ -12,11 +12,13 @@ Elle permet aux voyageurs de découvrir et réserver des propriétés, ainsi qu'
 ## 📱 Aperçu de l'Application
 
 ### 🏠 Découverte & Navigation
-
+## acceuil
 ![Accueil](assets/screenshots/acceuil.png)
-
 ![Suite Accueil](assets/screenshots/suite_acceuil.png)
+
+## Liste des logements
 ![Liste des logements](assets/screenshots/liste_logements.png)
+## Détail propriété
 ![Détail propriété](assets/screenshots/propriete.png)
 
 ### 🔐 Authentification
@@ -35,7 +37,10 @@ Elle permet aux voyageurs de découvrir et réserver des propriétés, ainsi qu'
 
 ### 👤 Profils Utilisateurs-propriétaire
 ![Profil propriétaire](assets/screenshots/profil-proprietaire.png)
+
+### Ajout d'une nouvelle propriété
 ![Ajout propriété](assets/screenshots/ajout-propriete.png)
+### Modification d'une  propriété
 ![modifier propriété](assets/screenshots/consulter-propriete.png)
 
 ### ℹ️ Pages Secondaires
